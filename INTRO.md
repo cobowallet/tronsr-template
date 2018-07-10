@@ -1,11 +1,11 @@
  
-Welcome to Cobo Tron Super Representative page
+# Welcome to Cobo Tron Super Representative page
 
 #### Official Site : https://cobo.com
 #### Cobo wallet is the only Tron official recommended wallet. 
 #### Cobo give back 100% of the block producer TRX to voters.
 
-
+-------------------
 
 ### TRX super representative Rules
 * We are running 3 TRX Super Representatives on upscale servers
