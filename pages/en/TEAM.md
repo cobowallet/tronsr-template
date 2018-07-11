@@ -18,10 +18,6 @@
 * Name: Lixin Liu
 * Intro: previously Head of Product at Hover Camera
 
-## Head of Global Marketing
-
-* Name: Lixin Liu
-* Intro: previously Head of Product at Hover Camera
 
 ## Head of Blockchain Engineer
 
