@@ -18,4 +18,13 @@
 * Name: Lixin Liu
 * Intro: previously Head of Product at Hover Camera
 
+## Head of Global Marketing
+
+* Name: Lixin Liu
+* Intro: previously Head of Product at Hover Camera
+
+## Head of Blockchain Engineer
+
+* Name: Josh Sima
+* Intro: A serial entrepreneur and blockchain enthusiast. 
 
