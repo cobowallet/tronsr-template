@@ -1,6 +1,6 @@
-We plan to initially inviest in $1M to support TRX SR and communities
+We plan to initially invest $1M to support TRX SR and communities
 
-* Servers set up and maitainance 7%
+* Server setup and maintenance 7%
 * TRX airdrop to Cobo users 6%
 * Community build ups, meetups, conferences, contests, etc 20%
 * TRX community development contribution (Total 31%)

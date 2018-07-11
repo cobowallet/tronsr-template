@@ -1,7 +1,7 @@
 ## Co-Founder & CEO
 
 * Name: Shenyu
-* Intro:  Co-founder and CEO of Cobo, and co-founder and CEO of F2Pool. Shenyu is a true veteran in cryptocurrency field, entered the industry on 2011. And the first company he founded - F2Pool - was #1 mining LTC, ETH, and consistent rank top on BTC mining.
+* Intro:  Co-founder and CEO of Cobo, and co-founder and CEO of F2Pool. Shenyu is a true veteran in the cryptocurrency field, entering the industry in 2011. The first company he founded - F2Pool - is the #1 mining pool for LTC, ETH, and consistently ranks near the top for BTC mining pools.
 
 ## Co-Founder & CTO
 
